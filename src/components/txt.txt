@@ -1,0 +1,7 @@
+<img className='my-[6rem] w-[34rem] mx-24 z-10' src={Image1} alt="" />
+        <img className=' -my-[32rem] w-[30rem] mx-36 z-0 ' src={Image2} alt="" />
+        <img className=' mx-56 z-30 w-[26rem] hover:-translate-y-1 hover:scale-110 transition ease-in-out delay-150 origin-center' src={Boy} alt="" />
+        <img className='-my-[8.5rem] mx-16 shadow-lg bg-blue-500 shadow-gray-500 pr-52 z-40  p-1 hover:translate-y-1 rounded-2xl h-24 ' src={`${Thumbup}  `} alt="" />
+        <img className=' -my-[30rem] mx-[32rem] h-24 shadow-lg shadow-gray-500 z-50 pl-44 p-2 bg-origin-content bg-pink-200 rounded-2xl hover:-translate-y-2' src={Crown} alt="" />
+        <img className='my-[17rem] hover:-translate-y-2' src={Glass} alt="" />
+    
